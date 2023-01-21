@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Saveable {
+public interface Saveable {
+    void save();
 }

@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Reportable {
+public interface Reportable {
+    String report();
 }
